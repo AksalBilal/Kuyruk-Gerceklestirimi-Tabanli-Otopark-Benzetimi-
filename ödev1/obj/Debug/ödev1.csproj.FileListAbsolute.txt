@@ -1,0 +1,50 @@
+C:\Users\bilal\source\repos\ödev1\ödev1\bin\Debug\ödev1.exe.config
+C:\Users\bilal\source\repos\ödev1\ödev1\bin\Debug\ödev1.exe
+C:\Users\bilal\source\repos\ödev1\ödev1\bin\Debug\ödev1.pdb
+C:\Users\bilal\source\repos\ödev1\ödev1\obj\Debug\ödev1.csprojResolveAssemblyReference.cache
+C:\Users\bilal\source\repos\ödev1\ödev1\obj\Debug\ödev1.Form1.resources
+C:\Users\bilal\source\repos\ödev1\ödev1\obj\Debug\ödev1.Properties.Resources.resources
+C:\Users\bilal\source\repos\ödev1\ödev1\obj\Debug\ödev1.csproj.GenerateResource.Cache
+C:\Users\bilal\source\repos\ödev1\ödev1\obj\Debug\ödev1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\ödev1\ödev1\obj\Debug\ödev1.exe
+C:\Users\bilal\source\repos\ödev1\ödev1\obj\Debug\ödev1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\bin\Debug\ödev1.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\bin\Debug\ödev1.exe
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\bin\Debug\ödev1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\obj\Debug\ödev1.csprojResolveAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\obj\Debug\ödev1.Form1.resources
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\obj\Debug\ödev1.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\obj\Debug\ödev1.csproj.GenerateResource.Cache
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\obj\Debug\ödev1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\obj\Debug\ödev1.exe
+C:\Users\bilal\OneDrive\Masaüstü\ödev1\ödev1\obj\Debug\ödev1.pdb
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\bin\Debug\ödev1.exe.config
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\bin\Debug\ödev1.exe
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\bin\Debug\ödev1.pdb
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\obj\Debug\ödev1.csprojResolveAssemblyReference.cache
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\obj\Debug\ödev1.Form1.resources
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\obj\Debug\ödev1.Properties.Resources.resources
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\obj\Debug\ödev1.csproj.GenerateResource.Cache
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\obj\Debug\ödev1.csproj.CoreCompileInputs.cache
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\obj\Debug\ödev1.exe
+C:\Users\UMUT CAN\Desktop\VS_2017\veri yapıları ödev 1\ödev1\ödev1\obj\Debug\ödev1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\bin\Debug\ödev1.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\bin\Debug\ödev1.exe
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\bin\Debug\ödev1.pdb
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.csprojResolveAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.Form1.resources
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.csproj.GenerateResource.Cache
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.exe
+C:\Users\bilal\OneDrive\Masaüstü\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.pdb
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\bin\Debug\ödev1.exe.config
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\bin\Debug\ödev1.exe
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\bin\Debug\ödev1.pdb
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.csprojAssemblyReference.cache
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.Form1.resources
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.Properties.Resources.resources
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.csproj.GenerateResource.cache
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.csproj.CoreCompileInputs.cache
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.exe
+D:\ÖDEVLER\ödev 1 bitmiş hali\ödev1\ödev1\obj\Debug\ödev1.pdb
